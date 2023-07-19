@@ -1,0 +1,118 @@
+body {
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color:#111111;
+}
+
+.nav-links {	
+	display: inline;
+}
+
+#title {
+	margin: 10px;
+	color: #FF6000;
+	font-style: italic;
+	font-size: 40px;
+	font-weight: 600;
+}
+
+a {
+	float: left;
+	text-decoration: none;
+	color:#FFA559;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;	
+	margin: 10px 5% 0 0;
+}
+
+a:hover {
+	color: #FFE6C7;
+	font-weight: 800;
+}
+
+hr {
+	border-top-style:ridge;
+	border-color: #FF6000;
+}
+
+.container-padding50 {
+	padding-bottom: 10px;
+}
+
+.container {
+	text-align: right;
+}
+
+.container-textinput {
+	width: 40%;
+	display: inline;
+	padding: 10px;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	font-style: italic;
+	border-radius: 5px;
+	border-color: #FF6000;
+}
+
+.container-textinput:hover {
+	border-color: #FFE6C7;
+}
+
+.container-button {
+	width: 10%;
+	display: inline-block;
+	padding: 2px 7px 8px 7px;
+	background-color:#FFA559;
+	color: white;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	border: 2px solid #FF6000;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.container-button:hover {
+	border-color: #FFE6C7;
+}
+
+.keyword {
+	color: #FF6000;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 700;
+}
+
+.jscontainer-image {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	display: block;
+	border: 2px dashed #FF6000;
+	text-align: center;
+}
+
+.about-us {
+	padding: 5%;
+	color: #FFA559;
+	font-size: 20px;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+}
+
+#contactLink {
+	color: #FFE6C7;
+	font-size: 20px;
+	font-weight: 700;
+	font-style: normal;
+	text-align: center;
+	padding: 0 20% 0 0;
+}
+
+.links {	
+	padding: 3% 25% 0 35%;
+	text-align: center;
+}
+
