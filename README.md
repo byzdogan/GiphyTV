@@ -19,7 +19,6 @@ In [Giphy](giphy.com) website, there is a detailed documentation about how to us
 - I clicked to the *Create an App* button to get the API Key.
 
 ## AJAX
-AJAX stands for Asynchronous JavaScript and XML. AJAX enables data to be sent and received to and from a database/server.
-Data is grabbed with AJAX request.
+AJAX stands for Asynchronous JavaScript and XML. AJAX enables data to be sent and received to and from a database/server. Data is grabbed with AJAX request.
 
 
